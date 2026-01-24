@@ -9,6 +9,7 @@ Twins-V3
 
 100-run twin experiments comparing HRLS developmental scaffolding vs pure emergence.
 Findings: Stable surface behavior (activity r≈0.21) can coexist with near-zero emotional coupling (valence r≈0.008), showing that identical architectures diverge internally long before reward training.
+https://github.com/Petra-research/Twins-V3
 
 Twin-V1: Bio-Mimetic Control
 
