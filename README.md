@@ -15,7 +15,7 @@ Twin-V1: Bio-Mimetic Control
 
 10k-neuron spiking neural network demonstrating coherent behavior without any reward functions.
 Proof-of-concept for architecture-first alignment.
-Repo: https://github.com/Petra-research/Twin-V1–Bio-Mimetic-Control
+Repo: [Twin-V1: Bio-Mimetic Control](https://github.com/Petra-research/Twin-V1--Bio-Mimetic-Control)
 
 First-principles ethical grounding  teaching ethics through association, relational inference, and internal reflection rather than rule-lists or reward filters.
 	•	Language acquisition through association inspired by infant learning: grounding words and symbols in patterns, affect, and contextual meaning instead of dataset memorization.
